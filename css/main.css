@@ -8,7 +8,7 @@ main{
   margin-top: 20px;
 }
 
-.riga .container{
+section .container{
   background-color: pink;
   text-align: center;
   height:100px;
@@ -23,7 +23,7 @@ main{
   border: 0;
 }
 
-#special>.riga>.container>.col-6{
+#special>.container>.col-6{
   border:solid 1px;
   border-top: 0;
 }
